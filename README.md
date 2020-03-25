@@ -2,7 +2,8 @@ Mini_Scraper-_Bilancio_ITA_with_Python_3.7.6
 # Welcome to the Mini_Scraper-_Bilancio_ITA_with_Python_3.7.6 wiki!
 # this mini script is runnig for python 3.7.6 or earlier
 
-#NOTE IMPORTANT: OPEN SHELL AND DIGIT PYTHON Bilancio_ITA.py for execute in RUN
+#NOTE IMPORTANT: OPEN SHELL AND DIGIT:
+python Bilancio_ITA.py for execute in RUN
 
 The important libraries for Numpy, Anaconda, Panda
 
