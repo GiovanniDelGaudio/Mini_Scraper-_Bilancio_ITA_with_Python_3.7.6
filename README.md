@@ -9,17 +9,20 @@ The important libraries for Numpy, Anaconda, Panda
 
 this for the guide installs python and the library
 
-the Linux.Install environmental system with python
+the Linux.Install environmental system with python 
 
-Install  Python details go to the site -> https://www.python.org/
 
-Install  Numpy details go to the site -> https://numpy.org/
 
-Install Pandas  details go to the site -> https://pandas.pydata.org/
+Install  Python details go to the site -> https://docs.python.org/3/using/index.html
+NOTE IMPORTANT : run in your shell run comand python3 -m pip install
+
+Install  Numpy details go to the site -> https://scipy.org/install.html
+
+Install Pandas  details go to the site ->  https://pandas.pydata.org/getting_started.html
 
 The Anaconda library is a free and open source distribution of the Python and R programming languages ​​for scientific calculation, which aims to simplify the management and distribution of packages.
 
- install anaconda  for information go to the site -> https://www.anaconda.com/
+ install anaconda  for information go to the site -> https://docs.anaconda.com/anaconda/install/
  
  
 
