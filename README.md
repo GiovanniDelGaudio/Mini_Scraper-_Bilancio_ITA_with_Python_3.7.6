@@ -14,9 +14,10 @@ the Linux.Install environmental system with python
 
 
 Install  Python details go to the site -> https://docs.python.org/3/using/index.html
-NOTE IMPORTANT : run in your shell run comand python3 -m pip install
+
 
 Install  Numpy details go to the site -> https://scipy.org/install.html
+NOTE IMPORTANT : run in your shell run comand python3 -m pip install
 
 Install Pandas  details go to the site ->  https://pandas.pydata.org/getting_started.html
 
