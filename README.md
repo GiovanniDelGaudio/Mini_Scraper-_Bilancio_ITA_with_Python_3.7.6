@@ -20,6 +20,8 @@ Install Pandas  details go to the site -> https://pandas.pydata.org/
 The Anaconda library is a free and open source distribution of the Python and R programming languages ​​for scientific calculation, which aims to simplify the management and distribution of packages.
 
  install anaconda (Ubuntu or derivatives) for information go to the site -> https://www.anaconda.com/
+ 
+ 
  install anaconda (Fedora32 or again) for information go to the site -> https://www.anaconda.com/
 
 This algorithm mainly shows on the screen a graph of the banking performance of the Italian stock exchange, if desired, in the code it can be modified to display another trend of another EU country or not. The script mainly uses the Yahoo Finance API, so you need to go to the site for more info.
